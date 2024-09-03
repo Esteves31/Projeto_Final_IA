@@ -21,6 +21,10 @@ de recuperar a referência correta e calcular o Mean Average Precision (MAP) em 
 - `article/`: Versão final do artigo científico no padrão IEEE.
 - `presentation/`: Slides de apresentação utilizados para expor os resultados do projeto.
 
+### Links para artigo e apresentação
+- `apresentação`: https://drive.google.com/file/d/1nPiwXFML6XCFdSm8bgjSBFPLtW9NegoP/view?usp=sharing
+- `artigo`:  https://drive.google.com/file/d/1gICm85sKUNxu8dqtORUatMjuisJuw2rj/view?usp=sharing
+
 ### Como Executar o Projeto
 
 1. **Clone o repositório**:
