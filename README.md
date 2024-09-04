@@ -23,7 +23,7 @@ de recuperar a referência correta e calcular o Mean Average Precision (MAP) em 
 
 ### Links para artigo e apresentação
 - `apresentação`: https://drive.google.com/file/d/1nPiwXFML6XCFdSm8bgjSBFPLtW9NegoP/view?usp=sharing
-- `artigo`:  https://drive.google.com/file/d/1gICm85sKUNxu8dqtORUatMjuisJuw2rj/view?usp=sharing
+- `artigo`:  https://drive.google.com/file/d/1gICm85sKUNxu8dqtORUatMjuisJuw2rj/view?usp=drive_link
 
 ### Como Executar o Projeto
 
